@@ -1,0 +1,14 @@
+{
+  "name": "johnny",
+  "version": "1.0.0",
+  "description": "johnny is the best",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'No build step required'"
+  },
+  "devDependencies": {
+    "netlify-cli": "latest"
+  }
+}
